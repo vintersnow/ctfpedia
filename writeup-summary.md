@@ -6,5 +6,5 @@
 # Contests
 
 - ksnctf [(公式サイト)](https://ksnctf.sweetduet.info)
-    - [easy cipher](writeup/ksnctf/02.md)
+    - [#02 easy cipher](writeup/ksnctf/02.md)
 
